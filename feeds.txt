@@ -1,1 +1,8 @@
 https://www.google.com/alerts/feeds/17310047703453981789/7214988851634069607
+https://investor.dsv.com/rss/news-releases.xml?category=company%20announcements
+https://investor.dsv.com/rss/news-releases.xml?category=investor%20news
+https://theloadstar.com/feed/
+https://www.freightwaves.com/feed
+https://www.supplychaindive.com/feeds/news/
+https://feeds.finance.yahoo.com/rss/2.0/headline?s=DSV.CO&region=US&lang=en-US
+https://news.google.com/rss/search?q=DSV+logistics+OR+"DSV+A/S"&hl=en-US&gl=US&ceid=US:en
